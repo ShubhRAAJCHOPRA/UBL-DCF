@@ -1,4 +1,4 @@
-# UBL-DCFOverview
+# UBL-DCF Overview
 
 This project presents a comprehensive equity research and valuation analysis of United Breweries Ltd. (UBL), combining historical financial analysis with a forward-looking Discounted Cash Flow (DCF) valuation.
 The objective is to understand UBL's financial performance, operating drivers, future growth potential, and intrinsic value using a structured financial modelling approach.
